@@ -67,6 +67,6 @@ My solutions for the exercises of the Full Stack open course of University of He
 
 ![Full Stack Open core course Certificate](./img/certificate-cicd.png)
 
-### Full Stack Open: GraphSQL Module
+### Full Stack Open: GraphQL Module
 
-![Full Stack Open core course Certificate](./img/certificate-graphsql.png)
+![Full Stack Open core course Certificate](./img/certificate-graphql.png)
